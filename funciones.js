@@ -33,6 +33,8 @@ function calculadora(a, b, operacion) {
 
 function holaMundo(){
  console.log("Hola mundo");
+ console.log("Hola mundo");
+ console.log("Hola mundo");
 }
 
 //sdfdsfds
