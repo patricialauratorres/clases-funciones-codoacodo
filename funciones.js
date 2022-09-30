@@ -1,5 +1,5 @@
 function saludar(parametro) {
-    //console.log("Hola mundo " + parametro);
+    console.log(`Hola mundo ${parametro} `);
 
     let cadena = "Hola mundo ";
 
@@ -9,7 +9,7 @@ function saludar(parametro) {
 
     return mostrar();
 }
-//saludar("Juan");
+saludar("Juan");
 
 function sumar(a, b) {
     return a + b;
